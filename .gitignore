@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+# Ignore Python cache
+__pychache__/
+*.py[cod]
+
+# Ignore venv
+.venv/
+.env
+
+# Ignore build artifacts
+*.egg-info/
+dist/
+build/
